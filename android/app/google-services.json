@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "929863063820",
+    "project_id": "jimexplainsproject",
+    "storage_bucket": "jimexplainsproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929863063820:android:c65509c7f98052a04b9129",
+        "android_client_info": {
+          "package_name": "com.mycompany.jimexplainstwo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1z_MO5a5La69Xd7rAOuoGiecVxqlW8T0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929863063820:android:cf68232b43fea78b4b9129",
+        "android_client_info": {
+          "package_name": "com.spondycode.jimexplainsproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1z_MO5a5La69Xd7rAOuoGiecVxqlW8T0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
